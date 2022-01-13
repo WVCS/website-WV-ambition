@@ -1,3 +1,51 @@
 body {
-
+  background-color: #9F84BD;
+  color: #ffd60a;
 }
+
+par {
+  padding: 20px;
+  list-style-type: none;
+  background-color: #9F84BD;
+  color: #ffd60a;
+  width: 100%;
+  overflow: hidden;
+  position: fixed;
+  text-align: center;
+  letter-spacing: 0.5px;
+  margin-left: -10px;
+  margin-top: -10px;
+  
+}
+
+a {
+  padding: 20px;
+  text-align: center;
+  fony-family: "Helvetica", Sans-Serif;
+  display: block;
+  color: #ffd60a;
+  letter-spacing: 0.5px;
+  padding: 0px 50px; 
+}
+
+h1 {
+  text-decoration: none;
+  color: #ffd60a;
+  font-size: 300%;
+  letter-spacing: 3px;
+  text-align: center;
+  margin-left: 0px; 
+  margin-top: 40px;
+}
+
+li {
+  float: left;
+  margin-left: 100px; 
+}
+
+li a: hover {
+  background-color: #9F84BD;
+  color: blue;
+}
+
+<html>
